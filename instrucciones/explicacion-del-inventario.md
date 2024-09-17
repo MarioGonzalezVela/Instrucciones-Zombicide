@@ -15,11 +15,11 @@ Cada Superviviente puede llevar un máximo de **cinco piezas** de Equipo diferen
 
 ***
 
-Existe un contador el cual se encarga de indicar la cantidad de zombis matados por el superviviente
+Existe un contador el cual se encarga de indicar la cantidad de zombis matados por el Superviviente.
 
 <figure><img src="../.gitbook/assets/image (3).png" alt="" width="365"><figcaption></figcaption></figure>
 
-Al llegar a 7 zombis matados se alcanza el nivel amarillo y después de 12 zombis más, el Superviviente llegará al nivel naranja
+Al llegar a 7 zombis matados se alcanza el nivel _amarillo_ y después de 12 zombis más, el Superviviente llegará al nivel _naranja_.
 
 <figure><img src="../.gitbook/assets/image (4).png" alt="" width="338"><figcaption></figcaption></figure>
 
@@ -39,6 +39,6 @@ _**A niveles más altos también se podrán obtener habilidades adicionales**_
 
 _**NUEVAS TARJETAS**_
 
-Las tarjetas de identificación de Superviviente que hay en esta caja contienen información tanto en el anverso como en el reverso. El anverso muestra a uno de los seis Supervivientes de la caja. El reverso muestra una tarjeta de identificación en blanco. ¡Utilízalo para crear tus propios Supervivientes!
+Las tarjetas de identificación de Superviviente que hay en esta caja contienen información tanto en el anverso como en el reverso. El anverso muestra a uno de los seis Supervivientes de la caja. El reverso muestra una tarjeta de identificación en blanco.&#x20;
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+¡Utilízalo para crear tus propios Supervivientes!
