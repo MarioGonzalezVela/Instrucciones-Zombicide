@@ -16,3 +16,5 @@ icon: treasure-chest
    * 4 a 6 jugadores: 1 Superviviente por jugador.
 7. Para cada Superviviente, coloca un contador en la pri- mera casilla de la zona azul de la barra de Peligro, y otra en la primera Habilidad que corresponda.
 8. Reparte al azar el Equipo inicial: un Hacha de bombe- ro, una Palanca y una Pistola. Eso es todo, chicos; si hay más Supervivientes que armas iniciales, bueno, es una pena… A modo de consuelo, todos los demás reciben una Sartén.
+
+<figure><img src="../.gitbook/assets/Captura_de_pantalla_20240917_100040-removebg-preview-removebg-preview.png" alt=""><figcaption></figcaption></figure>
