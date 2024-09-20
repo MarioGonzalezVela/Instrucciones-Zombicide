@@ -17,19 +17,19 @@ Cada Superviviente puede llevar un máximo de **cinco piezas** de Equipo diferen
 
 
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagenM1.png" alt="" width="375"><figcaption></figcaption></figure>
 
 ## Contador de zombis matados
 
 Existe un contador el cual se encarga de indicar la cantidad de zombis matados por el Superviviente.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt="" width="365"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagenM4.png" alt="" width="365"><figcaption></figcaption></figure>
 
 ## Niveles en base a los zombis matados
 
 Al llegar a 7 zombis matados se alcanza el nivel _amarillo_ y después de 12 zombis más, el Superviviente llegará al nivel _naranja_.
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="338"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagenM5.png" alt="" width="338"><figcaption></figcaption></figure>
 
 ## Habilidades
 
@@ -37,13 +37,13 @@ Dependiendo del nivel, el Superviviente irá adquiriendo ciertas habilidades que
 
 
 
-<figure><img src="../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagenM6.png" alt="" width="563"><figcaption></figcaption></figure>
 
 _**A niveles más altos también se podrán obtener habilidades adicionales**_
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="497"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/imagenM7.png" alt="" width="497"><figcaption></figcaption></figure>
 
 ***
 
