@@ -19,8 +19,6 @@ Cada Superviviente puede llevar un máximo de **cinco piezas** de Equipo diferen
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
-***
-
 ## Contador de zombis matados
 
 Existe un contador el cual se encarga de indicar la cantidad de zombis matados por el Superviviente.
